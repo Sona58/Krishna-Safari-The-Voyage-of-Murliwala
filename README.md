@@ -1,1 +1,3 @@
 # Krishna-Safari-The-Voyage-of-Murliwala
+
+Krishna Safari is a mythological game, which is developed for all android users, with android version 2.3 or above. The game is designed to bring alive the various events in Lord Krishna’s life. The player can play it by being Lord Krishna himself and therefore understanding something of what life in the spiritual world of Lord Krishna would be, when we go there. The game is designed in Unity 3D and the character models will be designed in Blender and makehuman. In this game, a player has to cross certain levels to win. These levels will be based on the facts related to Lord Krishna’s life. 
